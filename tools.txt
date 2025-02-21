@@ -1,0 +1,7 @@
+SDLC IS GOOD using the devops and agile frameworks 
+Linux is open source
+scripting is automation 
+got is a dvcs 
+aws is a cloud computing provider 
+ec2 is virtua server inthe cloud 
+
