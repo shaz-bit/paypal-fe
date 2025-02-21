@@ -34,3 +34,9 @@ git push
 git push pp master 
 clear
 vi tools.txt
+clear 
+git init
+cat paypal
+cat readme.md
+cat README.MD
+ls -a
