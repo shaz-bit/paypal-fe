@@ -193,3 +193,145 @@ git remote -v
 git log
 cd music
 clear 
+git init
+git status
+vi tools.txt
+git add .
+git clear
+clear
+git status
+git commit -m "tools created"
+cd pp
+git status
+git add *
+git add tools.txt
+git commit -m "tools created"
+git config --global "shaz10th@gmail.com"
+git log
+clear
+git status
+git remote -
+git remote -v
+git remote add pp https://github.com/shaz-bit/paypal-fe
+clear
+git branch
+git push pp master
+git pull origin master
+git config pull.rebase false  # merge
+git push pp master
+git pull pp master
+git push pp master --force
+clear
+vi deploy .sh
+git status
+cat deplou.sh
+cat deploy .sh
+vi deploy.sh
+git status
+cat deploy.sh
+echo "deployment must reviewed" >>deploy.sh
+echo "deployment must be reviewed by managers" >> deploy.sh
+cat deploy.sh
+vi deploy.sh
+git status
+clear
+git status
+git add ./deploy.sh
+git status
+git commit -m "deployment created"
+git status
+git add .
+git log
+git show
+clear
+ vi deploy.sh
+git status
+git commit -a -m "deploy updated"
+git log
+git log | head -5
+clear 
+git log | head -5
+git show
+clear
+git status
+git log
+git remote -v
+git push pp master
+clear 
+git push paypal master
+git fetch pp master
+git rebase pp master
+git rebase master
+git push pp master
+cd music
+mkdir p1
+cd p1
+git clone https://github.com/shaz-bit/paypal-fe
+cd pp
+ls
+cd paypal-fe
+ls
+git remote -v
+clear
+git remote -v
+git remote add P1 https://github.com/shaz-bit/paypal-fe
+git remote -v
+git log
+git config --global 
+clear
+echo "testing >>test.java"
+git staus
+git status
+clear
+cat test.java
+echo "testing" >>test.java
+cat test.java
+git status
+vi deploy.sh
+cat deploy.sh
+deploy.sh
+vi deploy.sh
+vi pp
+clear
+cd pp
+vi deploy.sh
+ls
+git status
+git add .
+git commit -m "testing"
+git og
+git log
+git pl master
+git push pl master
+cd pl
+cd p1
+git push p1 master
+clear
+git remote -v
+git log
+vi testing.java
+vi test.java
+clear
+git pull pp master
+cat test.java
+cat tools.txt
+git log
+clear
+git pull pp master
+clear 
+git diff
+clear
+git branch
+git branch--help
+git branch -help
+ls
+git switch development branch
+git switch development 
+git switch development
+git branch development
+git branch
+git switch development
+ls
+git ~
+git ~.
+q
