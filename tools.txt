@@ -1,4 +1,4 @@
-:SDLC IS GOOD using the devops and agile frameworks 
+SDLC IS GOOD using the devops and agile frameworks 
 Linux is open source
 scripting is automation 
 got is a dvcs 
