@@ -1,8 +1,7 @@
-SDLC IS GOOD using the devops and agile frameworks 
+:SDLC IS GOOD using the devops and agile frameworks 
 Linux is open source
 scripting is automation 
 got is a dvcs 
 aws is a cloud computing provider 
-ec2 is virtua server inthe cloud 
-i dont know what i am doing but i am learning 
+ec2 is virtua server inthe cloud  
 
