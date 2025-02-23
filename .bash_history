@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ls
 clear
 sudo yum install git -y
@@ -565,3 +566,6 @@ git stash apply
 git status
 clear
 git remote -v
+=======
+
+>>>>>>> 8838128a62b27a224bab2e03d977237052f2c455
