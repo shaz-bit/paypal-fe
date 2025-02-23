@@ -335,3 +335,233 @@ ls
 git ~
 git ~.
 q
+clear
+ls
+git branch
+git log | head -5
+git log
+clear
+ls
+git branch feature
+git switch feature
+vi app.java
+ls
+clear
+cd pp
+ls
+cd paypal
+git switch feature
+vi app.java
+git status
+git commit -a -m "online feature created"
+git status
+ls
+vi deploy.sh
+git commit -a -m "deployment  feature modified"
+vi banking.py
+git add .
+git status
+git commit -m "banking.py created"
+git log
+clear
+git switch master
+git log
+clear
+ls
+cat app.java
+clear 
+cat deploy.sh
+clear
+git branch
+git switch master
+git diff feature
+clear
+git master
+git switch master
+git diff feature
+clear
+git switch feature
+git diff
+git diff feature
+git switch master
+git diff feature
+clear
+git branch
+git log
+clear
+git switch master
+ls
+cat app.java
+cat deploy.sh
+clear
+git switch feature
+ls
+cat app.java
+clear
+git log
+git diff feature
+git switch master
+git log
+clear 
+git log
+git diff feature
+git log
+clear
+git log
+git switch master
+clear
+git log
+git switch feature
+ls
+clear 
+git lo
+clear
+git log
+git cherry-pick f40852
+git switch master
+git cherry-pick q-quit
+git cherry-pick --quit
+git switch master 
+clear
+git status
+git delete
+git --help
+rm p1/paypal-fe
+rm -rf p1/paypal-fe
+ls
+clear
+git diff
+git log
+clear
+git log
+clear
+git switch feature
+ls
+git log
+git status
+clear
+git branch bug
+git  branch bug-fix
+delete branch bug
+git branch -bug
+clear
+git branch -d bug
+git switch bug-fix
+cd ..
+cd pp
+ls
+git status
+git branch -d p1/paypal-fe
+clear
+vi banking.py
+git status
+git clean -n
+git clean -f
+git staus
+git status
+git clean -f
+git clean -n
+cd paypal-fe
+git switch master
+git clean -n
+rm banking.py
+git switch master
+vi banking.py
+git clean -n
+git clean -f
+git status
+git rm p1/paypal-fe
+clear
+git status
+vi bankin.py
+git add .
+git status
+git reset 
+git status
+git clean -f p1/paypal-fe
+git status
+vi banking.py
+git status
+git clean -f bankin.py
+vi banking.py
+git add
+git add .
+clear
+git commit
+git commit -m "online banking"
+git log
+git show 827343c4
+git revert 827343c4
+clear
+git revert 827343c4
+git show
+git log
+clear
+ls
+cd p1
+ls
+cs pp
+cd pp
+cd paypal
+~.
+git ~.
+cd~
+cd ~
+cd pp
+clear
+ls
+git tag paypal-1.0.2 
+ls
+git tag
+git push origin master 
+git fetch origin master
+git rebase
+git rebase master
+git push
+git push origin master
+clear
+git switch master
+git push origin master
+git pull origin master
+git push origin master
+git push origin --tags
+ckear
+clear
+git branch
+git switch master
+git switch development
+cat uat
+cat uat.java
+ls
+vi uat.java
+ls
+git add .
+git commit -m "uat created"
+git push origin master
+git status
+echo "testing" uat.java
+git status
+vi uat.java
+git status
+git stash
+git stash list
+status
+git status
+git switch master
+git switch development
+ls
+echo "perfomance" >>deploy.sh
+git status
+git stash
+clear
+git stash apply
+git stash list
+git status
+git commit -a -m "completed"
+git stash list
+git stash drop stash@{1}
+git stash list
+git stash apply
+git status
+clear
+git remote -v
