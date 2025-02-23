@@ -193,3 +193,148 @@ git remote -v
 git log
 cd music
 clear 
+clear
+git init
+ git status
+git delete
+git --help
+clear
+git status
+git rm p1
+cat testing
+cat tools.txt
+cat.bashr
+cat.bashrc
+clear
+ls
+cd paypal
+ls
+cat deploy.sh
+q
+cat deploy.sh
+.~
+git ~
+git.~
+cd ~
+ls
+cd paypal-fe
+cd pp
+ls
+git log
+clear
+git branch
+git switch developmen
+git switch development
+rmv pp/p1/paypal-fe
+clear
+ls
+echo java web application  >> app.java
+ echo java banking application >> app.java
+echo java ecommorce application >> app.java
+git rm app.java
+cat app.java
+git rm app.java
+git --help
+clear
+git rm app.java
+rm app.java
+cat app.java
+clear
+git switch development 
+rm pp/p1/paypal-fe
+echo java web application >> app.java
+echo java banking  application >> app.java
+echo java ecomerce application >> app.java
+git status
+git add app.java 
+git comiit -m "app created"
+git commit -m "application created"
+git log
+clear
+git switch master
+ls
+git log |head -2
+git dif
+git diff
+clear
+git diff
+clear
+git diff development
+clear
+git switch master
+git switch development
+git diff development
+CLEAR
+clear
+ls
+git log
+clear
+git log head -5
+git log
+clear
+git merge development
+ls
+git switch master
+ls
+git merge development
+ls
+git log
+claer
+clear
+git remote -v
+git push p1 --all
+git push pl --all
+git push pp --all
+git pull origin master
+git push pp --all
+clear
+cd pp
+git fetch pp master
+ls
+ git diff pp/master
+git merge pp/master
+rm .bash_history
+git add .
+git merge pp/master
+git commit -m " bash"
+git add .
+git status
+git commit -a
+clear
+ls
+git log
+clear
+git branch
+git pull development
+git switch development
+vi deploy.sh
+git commit -a -m "update deploy"
+git switch master
+cat deploy
+vi deploy.sh
+git log
+clear
+git diff development
+clear
+git merge
+git merge development
+vi deploy.sh
+git commit -a -m "conflict resolved"
+git branch stage
+git branch
+gigt switch stage 
+git switch 'stage'
+ls
+vi uat.java
+git status
+git commit -a -m "uat created"
+git add .
+git commit -m "uat created"
+git push
+git push pp stage
+CLEAR
+clear
+git pull pl master
+git log
+clcear
+git switch master
